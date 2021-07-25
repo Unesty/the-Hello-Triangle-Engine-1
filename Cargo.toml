@@ -1,0 +1,11 @@
+[package]
+name = "the_hello_triangle_engine"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.34.5"
+gl = "0.14.0"
+#glium_sdl2 = { git = "https://github.com/ComLarsic/glium-sdl2" }
+#glium = "0.29"
+
